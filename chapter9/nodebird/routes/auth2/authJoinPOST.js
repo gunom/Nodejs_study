@@ -1,5 +1,5 @@
 const express = require("express");
-const passport = requrie("passport");
+const passport = require("passport");
 const bcrypt = require("bcrypt");
 const User = require("../../models/user");
 
